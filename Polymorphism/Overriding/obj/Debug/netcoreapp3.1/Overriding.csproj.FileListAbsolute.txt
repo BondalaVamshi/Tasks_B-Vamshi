@@ -1,0 +1,13 @@
+F:\C#.net\Polymorphism\Overriding\bin\Debug\netcoreapp3.1\Overriding.exe
+F:\C#.net\Polymorphism\Overriding\bin\Debug\netcoreapp3.1\Overriding.deps.json
+F:\C#.net\Polymorphism\Overriding\bin\Debug\netcoreapp3.1\Overriding.runtimeconfig.json
+F:\C#.net\Polymorphism\Overriding\bin\Debug\netcoreapp3.1\Overriding.runtimeconfig.dev.json
+F:\C#.net\Polymorphism\Overriding\bin\Debug\netcoreapp3.1\Overriding.dll
+F:\C#.net\Polymorphism\Overriding\bin\Debug\netcoreapp3.1\Overriding.pdb
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.csprojAssemblyReference.cache
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.AssemblyInfoInputs.cache
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.AssemblyInfo.cs
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.csproj.CoreCompileInputs.cache
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.dll
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.pdb
+F:\C#.net\Polymorphism\Overriding\obj\Debug\netcoreapp3.1\Overriding.genruntimeconfig.cache
