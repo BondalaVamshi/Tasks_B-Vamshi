@@ -1,0 +1,13 @@
+F:\C#.net\CSharper\ExceptinHandling\bin\Debug\netcoreapp3.1\ExceptinHandling.exe
+F:\C#.net\CSharper\ExceptinHandling\bin\Debug\netcoreapp3.1\ExceptinHandling.deps.json
+F:\C#.net\CSharper\ExceptinHandling\bin\Debug\netcoreapp3.1\ExceptinHandling.runtimeconfig.json
+F:\C#.net\CSharper\ExceptinHandling\bin\Debug\netcoreapp3.1\ExceptinHandling.runtimeconfig.dev.json
+F:\C#.net\CSharper\ExceptinHandling\bin\Debug\netcoreapp3.1\ExceptinHandling.dll
+F:\C#.net\CSharper\ExceptinHandling\bin\Debug\netcoreapp3.1\ExceptinHandling.pdb
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.csprojAssemblyReference.cache
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.AssemblyInfoInputs.cache
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.AssemblyInfo.cs
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.csproj.CoreCompileInputs.cache
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.dll
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.pdb
+F:\C#.net\CSharper\ExceptinHandling\obj\Debug\netcoreapp3.1\ExceptinHandling.genruntimeconfig.cache

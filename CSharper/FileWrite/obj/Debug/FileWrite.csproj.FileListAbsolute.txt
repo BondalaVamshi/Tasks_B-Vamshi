@@ -1,0 +1,7 @@
+F:\C#.net\CSharper\FileWrite\bin\Debug\FileWrite.exe.config
+F:\C#.net\CSharper\FileWrite\bin\Debug\FileWrite.exe
+F:\C#.net\CSharper\FileWrite\bin\Debug\FileWrite.pdb
+F:\C#.net\CSharper\FileWrite\obj\Debug\FileWrite.csprojAssemblyReference.cache
+F:\C#.net\CSharper\FileWrite\obj\Debug\FileWrite.csproj.CoreCompileInputs.cache
+F:\C#.net\CSharper\FileWrite\obj\Debug\FileWrite.exe
+F:\C#.net\CSharper\FileWrite\obj\Debug\FileWrite.pdb

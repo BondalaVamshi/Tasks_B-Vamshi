@@ -1,0 +1,10 @@
+F:\C#.net\CSharper\FileStreamStarts\bin\Debug\FileStreamStarts.exe.config
+F:\C#.net\CSharper\FileStreamStarts\bin\Debug\FileStreamStarts.exe
+F:\C#.net\CSharper\FileStreamStarts\bin\Debug\FileStreamStarts.pdb
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.Form1.resources
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.Properties.Resources.resources
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.csproj.GenerateResource.cache
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.csproj.CoreCompileInputs.cache
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.exe
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.pdb
+F:\C#.net\CSharper\FileStreamStarts\obj\Debug\FileStreamStarts.csprojAssemblyReference.cache
