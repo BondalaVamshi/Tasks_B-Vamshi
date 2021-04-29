@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#.net\\CSharper\\ExceptinHandling\\ExceptinHandling.csproj",
+      "projectUniqueName": "G:\\Vamshi Tasks\\CSharper\\ExceptinHandling\\ExceptinHandling.csproj",
       "projectName": "ExceptinHandling",
-      "projectPath": "F:\\C#.net\\CSharper\\ExceptinHandling\\ExceptinHandling.csproj",
+      "projectPath": "G:\\Vamshi Tasks\\CSharper\\ExceptinHandling\\ExceptinHandling.csproj",
       "packagesPath": "C:\\Users\\Vamshi Bondala\\.nuget\\packages\\",
-      "outputPath": "F:\\C#.net\\CSharper\\ExceptinHandling\\obj\\",
+      "outputPath": "G:\\Vamshi Tasks\\CSharper\\ExceptinHandling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
